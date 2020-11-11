@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lge5\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lge5\\.nuget\\packages"
+    ]
+  }
+}

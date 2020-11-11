@@ -1,0 +1,40 @@
+
+/* Articles */
+body div.item {      
+  padding: 10px;    
+}   
+
+body div.item span:first-child:before{  
+  margin-right:10px;  
+  color: #95A5A6;  
+  font-size: 1.1em;  
+}  
+
+body div.item span:nth-child(2):before{  
+    
+  margin-right:10px;  
+  color: #2980B9;  
+  font-size: 1.1em;  
+}  
+
+body div.item span:nth-child(2){  
+  display:block;
+}  
+
+
+/*Glossary items */
+body div.term span:first-child{  
+  font-weight: bold;  
+  font-size: 1.2em;
+}  
+
+body div.term span:first-child:before{  
+  content: "\0054";  
+}  
+
+body div.term span:nth-child(2):before{    
+  content: "\0044";    
+} 
+
+
+

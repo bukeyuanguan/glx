@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApp1.Common</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApp1.Common.ToDoItemUpdateModel">
+            <summary>
+            Partial Update Model
+            </summary>
+        </member>
+        <member name="P:ConsoleApp1.Common.ToDoItemUpdateModel.Description">
+            <summary>
+            If not empty, database will update the value
+            </summary>
+        </member>
+    </members>
+</doc>
