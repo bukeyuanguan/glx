@@ -1,1 +1,1 @@
-It's a Angular appolication.
+It's a Angular appolication
